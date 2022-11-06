@@ -1,7 +1,7 @@
-// Include packages needed for this application ASK TUTOR
+// Include packages needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
-const {generateMarkdown} = require("./utils/generateMarkdown")
+const { generateMarkdown } = require("./utils/generateMarkdown")
 //Creates an array of questions for user input
 const questions = [{
     type: "input",
@@ -54,7 +54,7 @@ const questions = [{
 // Creates a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFileSync(`./dist/${fileName}`, data)
- }
+}
 
 //Creates a function to initialize app
 function init() {

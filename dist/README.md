@@ -1,7 +1,7 @@
-# adsfasdf
+# ReadMe Generator
 ![Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 # Description
-fdsafdsa
+readme generator
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -9,14 +9,14 @@ fdsafdsa
 * [Features](#Features)
 * [Tests](#tests)
 # Installation
-These are the steps to install this application fdsafdsa
+These are the steps to install this application download inquirer
 # Usage
-This is how to use this application fdsafds
+This is how to use this application usage
 # Credits
-Credit to: fdsafds
+Credit to: RWelte, UPenn
 # License
    The true License.
-      Copyright(c) 2021 fdsafds.
+      Copyright(c) 2021 RWelte, UPenn.
         
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
   documentation files(the "Software"), to deal in the Software without restriction, including without limitation
@@ -31,6 +31,6 @@ Credit to: fdsafds
   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
       TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 # Features
-Here are the features to this project: fdsafads
+Here are the features to this project: readme file generation
 # Tests
-Here is what is needed to run tests: fdsafdsa
+Here is what is needed to run tests: np and inquirer

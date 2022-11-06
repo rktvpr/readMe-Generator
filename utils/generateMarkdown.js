@@ -24,10 +24,9 @@ function renderLicenseSection(data) {
   if (data.License === false) {
     return "";
   } else {
-    //ask tutor 
     return `# License
-   The ${ data.License } License.
-      Copyright(c) 2021 ${ data.Credits }.
+   The ${data.License} License.
+      Copyright(c) 2021 ${data.Credits}.
         
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
   documentation files(the "Software"), to deal in the Software without restriction, including without limitation
