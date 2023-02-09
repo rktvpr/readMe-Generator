@@ -2,7 +2,7 @@
 [Github Repository](https://github.com/rktvpr/readMe-Generator) 
 [Usage Video](https://drive.google.com/file/d/19ze4uK47zdMq2k3B-mqCnlS0w7qSL7uy/view?usp=sharing)
 # Description
-This application is designed to generate a custom readMe file to the user by answering questions pertaining to the readMe
+This application is designed to generate a custom readMe file to the user by answering questions pertaining to the readMe. I learned how to use inquirer to write MD docs and how to start using Node.js and helped me become more familliar with the terminal.
 
 # Installation
 Inquirer is required to run this program
@@ -37,3 +37,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Contact me 
+* If you have any questions, comments, concerns please contact me at 
+* rktvpr@gmail.com
